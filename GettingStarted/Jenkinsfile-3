@@ -1,4 +1,4 @@
-@Library("shared-library") _
+@Library("https://github.com/darinpope/github-api-global-lib") _
 pipeline {
   agent any
   stages {
